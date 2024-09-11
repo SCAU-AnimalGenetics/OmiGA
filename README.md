@@ -14,8 +14,20 @@
 - [2. Getting Started](https://github.com/SCAU-AnimalGenetics/OmiGA/wiki#2-getting-started)
   - [2.1 Installation and Initial Setup](https://github.com/SCAU-AnimalGenetics/OmiGA/wiki#21-installation-and-initial-setup)
     - [2.1.1 Configuration and running for OmiGA](https://github.com/SCAU-AnimalGenetics/OmiGA/wiki#211-configuration-and-running-for-omiga)
+  - [2.2 quick starting]()
+- [3. Basic Options]()
+  - [3.1 Input and Output]()
+  - [3.2 Mode Selection]()
+  - [3.3 Data Management]()
+- [4. QTL mapping]()
+  - [4.1 Standard cis-QTL mapping]()
+  - [4.2 Conditional independent cis-QTL mapping]()
+  - [4.3 Interaction cis-QTL mapping]()
+  - [4.4 cis-QTL multiple-testing]()
+  - [4.5 Trans-QTL mapping]()
+  - [4.6 GWAS(similar to global QTL mapping)]()
+- [5. Heritability estimation]()
+- [6. Contact Information]()
  
-
-
 <!-- /TOC -->
 
