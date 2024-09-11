@@ -13,7 +13,7 @@
   - [1.1 Overview of OmiGA](https://github.com/SCAU-AnimalGenetics/OmiGA/wiki#11-overview-of-omiga)
 - [2. Getting Started](https://github.com/SCAU-AnimalGenetics/OmiGA/wiki#2-getting-started)
   - [2.1 Installation and Initial Setup](https://github.com/SCAU-AnimalGenetics/OmiGA/wiki#21-installation-and-initial-setup)
-    -[2.1.1 Configuration and running for OmiGA](https://github.com/SCAU-AnimalGenetics/OmiGA/wiki#211-configuration-and-running-for-omiga)
+    - [2.1.1 Configuration and running for OmiGA](https://github.com/SCAU-AnimalGenetics/OmiGA/wiki#211-configuration-and-running-for-omiga)
  
 
 
