@@ -1,7 +1,7 @@
 # <img src="https://omiga.bio/imgs/logo-blue.png" width="15%" height="15%">
 # **A Toolkit for Omics Genetic Analysis**<br>
 
-OmiGA (Omics Genetic Analysis) is a toolkit designed to ultra-efficient genetic analysis for high-throughput measurements of omics, such as gene expression, alternative splicing, DNA methylation, metabolites, Microbiome, protein abundance, and so forth. Additionally, OmiGA is applicable to genome-wide association analysis for complex traits.
+OmiGA (Omics Genetic Analysis) is a toolkit designed to ultra-efficient genetic analysis for high-throughput measurements of omics, such as gene expression, alternative splicing, DNA methylation, metabolites, Microbiome, protein abundance, and so forth. Additionally, OmiGA is applicable to genome-wide association analysis for complex traits. **For detailed documentation, please click [**here**](https://omiga.bio).**
 
 OmiGA currently supports the following analyses:
 
@@ -16,5 +16,5 @@ OmiGA currently supports the following analyses:
 - Partitioning additive and/or non-additive heritability
 - Estimating the cis-, trans-heritability, and global heritability
 
-**For detailed documentation, please click [**here**](https://omiga.bio).**
+
 
